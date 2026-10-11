@@ -1,5 +1,1 @@
-ok-pm/v1.0.0/mkcm/Пакетный менеджер, созданный для KOS/a
-example/v1.0.02/mkcm/test/e
-chill-soundtrack-podcasts/v1.0.03/mkcm/Набор спокойных треков. Приятного прослушивания <3/e
-neofetch/v1.0.0/mkcm/Добавляет команду neofetch для KOS/a
-cargo/1.78.0/RUSTLANG/Rust-компилятор/e
+example/v1.0.0/mkcm/test/e
